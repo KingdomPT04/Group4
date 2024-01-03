@@ -261,8 +261,8 @@ function customerFooterUI() {
                         <h1 class="sm">about</h1>
                         <p>Accra Technical University was the first Technical University to be established. It was established in 1949 as a Technical School and commissioned in 1957 as Accra Technical Institute. In 1963, the Institute was renamed Accra Polytechnic, by the orders of the then President, Dr. Kwame Nkrumah..</p>
                         <ul class="py-1">
-                            <li><i class="fab fa-facebook-f"></i><a href="https://www.facebook.com/malwainstitute/" target="_blank"> Facebook</a></li>
-                            <li><i class="fab fa-instagram"></i><a href="https://www.instagram.com/malwa_institute_of_technology/" target="_blank">Instagram</a></li>
+                            <li><i class="fab fa-facebook-f"></i><a href="https://web.facebook.com/groups/1618364651758168" target="_blank"> Facebook</a></li>
+                            <li><i class="fab fa-instagram"></i><a href="https://www.instagram.com/campus_atu/" target="_blank">Instagram</a></li>
                         </ul>
                     </article>
                     <!-- Navigation Links -->
@@ -280,7 +280,7 @@ function customerFooterUI() {
                         <ul>
                             <h1 class="sm">Contact Information</h1>
                             <li> <i class="fas fa-phone-alt"></i> <p>+233 55 876 6063</p></li>
-                            <li> <i class="fas fa-envelope"></i> <p>admission@mitindore.co.in</p></li>
+                            <li> <i class="fas fa-envelope"></i> <p>admission@atugroup4.co.in</p></li>
                             <li> <i class="fas fa-map-marker-alt"></i> <p>Address: P. O Box GP 561, Barnes road, Accra.</p></li>
                             <li> <i class="fas fa-globe-asia"></i> <p>For Professional Courses, Visit: www.atu.edu.gh</p></li>
                         </ul>
@@ -332,7 +332,7 @@ function userFooterUI() {
                         <ul>
                             <h1 class="sm">Contact Information</h1>
                             <li> <i class="fas fa-phone-alt"></i> <p>+233 55 876 6063</p></li>
-                            <li> <i class="fas fa-envelope"></i> <p>admission@mitindore.co.in</p></li>
+                            <li> <i class="fas fa-envelope"></i> <p>admission@atugroup4.co.in</p></li>
                             <li> <i class="fas fa-map-marker-alt"></i> <p>Address: P. O Box GP 561, Barnes road, Accra.</p></li>
                             <li> <i class="fas fa-globe-asia"></i> <p>For Professional Courses, Visit: www.atu.edu.gh</p></li>
                         </ul>
