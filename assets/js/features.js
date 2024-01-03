@@ -102,7 +102,7 @@ function bestDishesHero() {
                 </div>
                 <img src="${index.imgURL}" loading="lazy" alt="Canteen Dishes">
                 <p>${index.description}</p>
-                <h3 class="md">&#8377; ${index.price}</h3>
+                <h3 class="md">&#8373; ${index.price}</h3>
             </a>
         `
         if (bestDishesCont) { bestDishesCont.appendChild(div) }
@@ -432,7 +432,7 @@ function setOrderDetails(trimedEmailID) {
                             <tbody>
                                 <tr>
                                     <td data-label= "Order ID">${trimedID}</td>
-                                    <td data-label= "Total">&#8377; ${total}</td>
+                                    <td data-label= "Total">&#8373; ${total}</td>
                                     <td data-label= "Date">${date}</td>
                                     <td data-label= "Time">${time}</td>
                                     <td data-label= "Order Status">${orderStatus}</td>
@@ -471,9 +471,9 @@ function setOrderDetails(trimedEmailID) {
                             tr.innerHTML = `
                             <td data-label= "S. No">${sID}</td>
                             <td data-label= "Item">${newMenu[foodID-1].fields.title}</td>
-                            <td data-label= "Price">&#8377 ${newMenu[foodID-1].fields.price}</td>
+                            <td data-label= "Price">&#8373 ${newMenu[foodID-1].fields.price}</td>
                             <td data-label= "Quantity">${itemID.Quantity}</td>
-                            <td data-label= "Sub Total">&#8377 ${subTotal}</td>
+                            <td data-label= "Sub Total">&#8373 ${subTotal}</td>
                         `
                             tbody.appendChild(tr)
                         })
@@ -516,7 +516,7 @@ function setOrderDetails(trimedEmailID) {
                             <tbody>
                                 <tr>
                                     <td data-label= "Order ID">${trimedID}</td>
-                                    <td data-label= "Total">&#8377; ${total}</td>
+                                    <td data-label= "Total">&#8373; ${total}</td>
                                     <td data-label= "Date">${date}</td>
                                     <td data-label= "Time">${time}</td>
                                     <td data-label= "Order Status">${'Not Confirmed Yet'}</td>
