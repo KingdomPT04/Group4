@@ -1,12 +1,11 @@
-var newMenu = [
-    {
+var newMenu = [{
         "sys": { "id": "1" },
         "fields": {
             "title": "Double Cheese Potato Burger",
             "category": "Burger",
             "price": "45",
             "caleories": "220 - 280 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/burger.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/burger.jpg" } } }
         }
     },
     {
@@ -16,7 +15,7 @@ var newMenu = [
             "category": "Sandwitch",
             "price": "45",
             "caleories": "250 - 300 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/sandwich1.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/sandwich1.jpg" } } }
         }
     },
     {
@@ -26,7 +25,7 @@ var newMenu = [
             "category": "Sandwitch",
             "price": "60",
             "caleories": "320 - 400 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/s2.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/s2.jpg" } } }
         }
     },
     {
@@ -36,7 +35,7 @@ var newMenu = [
             "category": "Sandwitch",
             "price": "45",
             "caleories": "250 - 300 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/sandwich2.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/sandwich2.jpg" } } }
         }
     },
     {
@@ -46,7 +45,7 @@ var newMenu = [
             "category": "Sandwitch",
             "price": "45",
             "caleories": "230 - 285 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/schez-sandwitch.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/schez-sandwitch.jpg" } } }
         }
     },
     {
@@ -56,7 +55,7 @@ var newMenu = [
             "category": "Maggie",
             "price": "25",
             "caleories": "150 - 280 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/maggie.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/maggie.jpg" } } }
         }
     },
     {
@@ -66,7 +65,7 @@ var newMenu = [
             "category": "Maggie",
             "price": "30",
             "caleories": "165 - 225 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/maggie-s.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/maggie-s.jpg" } } }
         }
     },
     {
@@ -76,7 +75,7 @@ var newMenu = [
             "category": "Maggie",
             "price": "30",
             "caleories": "170 - 220 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/veg-maggie.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/veg-maggie.jpg" } } }
         }
     },
     {
@@ -86,7 +85,7 @@ var newMenu = [
             "category": "Maggie",
             "price": "40",
             "caleories": "190 - 230 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/garlic-maggie.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/garlic-maggie.jpg" } } }
         }
     },
     {
@@ -96,7 +95,7 @@ var newMenu = [
             "category": "Maggie",
             "price": "45",
             "caleories": "175 - 235 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/cheese-maggie.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/cheese-maggie.jpg" } } }
         }
     },
     {
@@ -106,7 +105,7 @@ var newMenu = [
             "category": "Fries",
             "price": "35",
             "caleories": "120 - 185 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/frenchfries.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/frenchfries.jpg" } } }
         }
     },
     {
@@ -116,7 +115,7 @@ var newMenu = [
             "category": "Fries",
             "price": "45",
             "caleories": "135 - 210 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/shezuan.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/shezuan.jpg" } } }
         }
     },
     {
@@ -126,7 +125,7 @@ var newMenu = [
             "category": "Fries",
             "price": "40",
             "caleories": "140 - 156 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/cheese-fries.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/cheese-fries.jpg" } } }
         }
     },
     {
@@ -136,7 +135,7 @@ var newMenu = [
             "category": "Pasta",
             "price": "80",
             "caleories": "241 - 321 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/pasta.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/pasta.jpg" } } }
         }
     },
     {
@@ -146,7 +145,7 @@ var newMenu = [
             "category": "Pasta",
             "price": "80",
             "caleories": "265 - 321 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/white-pasta.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/white-pasta.jpg" } } }
         }
     },
     {
@@ -156,7 +155,7 @@ var newMenu = [
             "category": "Beverages",
             "price": "35",
             "caleories": "155 - 210 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/milk-shake.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/milk-shake.jpg" } } }
         }
     },
     {
@@ -166,7 +165,7 @@ var newMenu = [
             "category": "Beverages",
             "price": "35",
             "caleories": "230 - 280 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/hot-coffee.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/hot-coffee.jpg" } } }
         }
     },
     {
@@ -176,7 +175,7 @@ var newMenu = [
             "category": "Beverages",
             "price": "10",
             "caleories": "260 - 365 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/Aerated-Drinks.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/Aerated-Drinks.jpg" } } }
         }
     },
     {
@@ -186,7 +185,7 @@ var newMenu = [
             "category": "Beverages",
             "price": "35",
             "caleories": "255 - 360 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/cold-coffee.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/cold-coffee.jpg" } } }
         }
     },
     {
@@ -196,7 +195,7 @@ var newMenu = [
             "category": "Beverages",
             "price": "15",
             "caleories": "220 - 265 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/coffee.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/coffee.jpg" } } }
         }
     },
     {
@@ -206,7 +205,7 @@ var newMenu = [
             "category": "Beverages",
             "price": "10",
             "caleories": "155 - 225 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/tea.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/tea.jpg" } } }
         }
     },
     {
@@ -216,7 +215,7 @@ var newMenu = [
             "category": "Beverages",
             "price": "35",
             "caleories": "265 - 355 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/beverage.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/beverage.jpg" } } }
         }
     },
     {
@@ -226,7 +225,7 @@ var newMenu = [
             "category": "Bakery",
             "price": "35",
             "caleories": "260 - 320 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/puff.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/puff.jpg" } } }
         }
     },
     {
@@ -236,7 +235,7 @@ var newMenu = [
             "category": "Bakery",
             "price": "15",
             "caleories": "255 - 390 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/samosa.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/samosa.jpg" } } }
         }
     },
     {
@@ -246,7 +245,7 @@ var newMenu = [
             "category": "Bakery",
             "price": "20",
             "caleories": "265 - 375 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/panner-puff.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/panner-puff.jpg" } } }
         }
     },
     {
@@ -256,7 +255,7 @@ var newMenu = [
             "category": "Bakery",
             "price": "15",
             "caleories": "300 - 425 Kcal",
-            "image": { "fields": {"file": { "url": "assets/images/noodle-puff.jpg" } } }
+            "image": { "fields": { "file": { "url": "assets/images/noodle-puff.jpg" } } }
         }
     }
 ]
@@ -266,30 +265,30 @@ const menuSection = document.querySelector('.menu-section');
 // Menu Filter Buttons -
 const menuFilterBtns = document.querySelectorAll('#menu-filter');
 
-function filtering(addToCartBtn){
+function filtering(addToCartBtn) {
     // Menu Items Filteration
-    menuFilterBtns.forEach( btn => {
-        btn.addEventListener('click', (e)=>{
+    menuFilterBtns.forEach(btn => {
+        btn.addEventListener('click', (e) => {
             const Category = e.currentTarget.dataset.id;
 
             // Current Btn Indication - 
             btn.classList.add('current')
-            menuFilterBtns.forEach(i =>{
-                if(i.dataset.id != Category){i.classList.remove('current')}
+            menuFilterBtns.forEach(i => {
+                if (i.dataset.id != Category) { i.classList.remove('current') }
             })
 
             // Filtering Menu Items -
             addToCartBtn.forEach(item => {
                 let id = item.dataset.id;
                 let menuItemClass = item.parentElement.parentElement.parentElement.parentElement
-                if (Category === newMenu[id-1].fields.category){
+                if (Category === newMenu[id - 1].fields.category) {
                     menuItemClass.classList.remove('display-none')
                     menuItemClass.classList.add('show')
                 }
-                if (Category != newMenu[id-1].fields.category){
+                if (Category != newMenu[id - 1].fields.category) {
                     menuItemClass.classList.add('display-none')
                 }
-                if (Category === 'all'){
+                if (Category === 'all') {
                     menuItemClass.classList.remove('display-none')
                     menuItemClass.classList.add('show')
                 }
@@ -299,8 +298,8 @@ function filtering(addToCartBtn){
 }
 
 // Function To Create Menu Cards & Add to HTML
-function displayMenuItems(menuItems){
-    let displayMenu = menuItems.map(function(item){
+function displayMenuItems(menuItems) {
+    let displayMenu = menuItems.map(function(item) {
         return `
         <article class="menu-item">
             <img src="${item.fields.image.fields.file.url}" loading="lazy" alt="Product image">
@@ -315,7 +314,7 @@ function displayMenuItems(menuItems){
             </figure>
             <hr style="margin: 10px 0;">
             <div class="menu-cart-functionality">
-                <div class="price">&#8377;${item.fields.price}</div>
+                <div class="price">&#8373;${item.fields.price}</div>
                 <div class="cart-btn-container">
                     <button class="bag-btn" id="add-to-cart-btn" data-id=${item.sys.id}>Add to Cart</i></button>
                 </div>
@@ -326,7 +325,7 @@ function displayMenuItems(menuItems){
     });
 
     displayMenu = displayMenu.join('');
-    if (menuSection) {menuSection.innerHTML = displayMenu;}
+    if (menuSection) { menuSection.innerHTML = displayMenu; }
 }
 
 // ------------------ Menu.html Menu Cards END ------------------------
@@ -355,16 +354,16 @@ var quantity = 1;
 var addItem = [];
 
 // Add Id & quantity of Food Item - 
-function foodItemCartBtn(data_id, quantity, trimedEmailID, addItem){
+function foodItemCartBtn(data_id, quantity, trimedEmailID, addItem) {
     // Add Food ID to object
     var product = {
-        FoodID: data_id,
-        Quantity: quantity
-    }
-    // add that to last position
+            FoodID: data_id,
+            Quantity: quantity
+        }
+        // add that to last position
     addItem.push(product);
 
-    if (addItem.length != 0){
+    if (addItem.length != 0) {
         // Save to Firebase DB
         firebase.database().ref('Users_Carts/' + trimedEmailID + '_Cart').set({
             Details: addItem,
@@ -374,11 +373,11 @@ function foodItemCartBtn(data_id, quantity, trimedEmailID, addItem){
 }
 
 // Add Items in User Cart -
-function showUserCart(addItem, trimedEmailID){
+function showUserCart(addItem, trimedEmailID) {
 
     let totalAmount = 0;
     let No_of_Item = 0;
-  
+
     // Remove All Stored Previous items
     cartItemsContainer.innerHTML = ''
 
@@ -398,7 +397,7 @@ function showUserCart(addItem, trimedEmailID){
             <div><img src="${inMenu.image.fields.file.url}" alt="Food item image"></div>
             <div class="cart-info">
                 <h3 id'c-title'>${inMenu.title}</h3>
-                <p>&#8377;${inMenu.price}</p>
+                <p>&#8373;${inMenu.price}</p>
                 <span class="remove-item" data-id=${id+1}>remove</span>
             </div>
             <div class="flex-column"> 
@@ -406,18 +405,18 @@ function showUserCart(addItem, trimedEmailID){
                 <p class="item-amount">${item.Quantity}</p>
                 <i class="fas fa-chevron-down" data-id=${id+1}></i>
             </div>
-        ` 
+        `
         cartItemsContainer.appendChild(div);
     })
 
     // Set Total Amount Value in Firebase DB & UI-
     firebase
-    .database()
-    .ref('Users_Carts/' + trimedEmailID + '_Cart')
-    .update({Details: addItem, Total_Amount: totalAmount})
-    // UI
+        .database()
+        .ref('Users_Carts/' + trimedEmailID + '_Cart')
+        .update({ Details: addItem, Total_Amount: totalAmount })
+        // UI
     cartTotal.innerHTML = totalAmount;
-    cartValues.forEach(values=>{values.innerHTML = No_of_Item;})
+    cartValues.forEach(values => { values.innerHTML = No_of_Item; })
 
     // If user orders than send cart to orders
     userCart = { Details: addItem, Total_Amount: totalAmount }
@@ -425,92 +424,92 @@ function showUserCart(addItem, trimedEmailID){
 }
 
 // User Operations in Cart
-function cartFunctionalities (addItem, trimedEmailID, addToCartBtn){
+function cartFunctionalities(addItem, trimedEmailID, addToCartBtn) {
     // In Cart Buttons & Functionalities -
     cartItemsContainer.addEventListener('click', event => {
         // When Remove Btn is clicked
-        if (event.target.classList.contains('remove-item')){
+        if (event.target.classList.contains('remove-item')) {
             let removeBtn = event.target;
             let id = removeBtn.dataset.id;
 
             // Remove Item From Array -
             addItem.forEach(item => {
-                if (item.FoodID === id){ 
-                    addItem.splice(addItem.indexOf(item) ,1) 
-                    if ( window.location != 'http://127.0.0.1:5502/user-orders.html'){
+                if (item.FoodID === id) {
+                    addItem.splice(addItem.indexOf(item), 1)
+                    if (window.location != 'http://127.0.0.1:5502/user-orders.html') {
                         // Enable removed items btn
-                        addToCartBtn[item.FoodID-1].disabled = false;
-                        addToCartBtn[item.FoodID-1].innerHTML = 'Add to Cart';
+                        addToCartBtn[item.FoodID - 1].disabled = false;
+                        addToCartBtn[item.FoodID - 1].innerHTML = 'Add to Cart';
                     }
-                    if (addItem.length === 0){
+                    if (addItem.length === 0) {
                         cartItemsContainer.innerHTML = '';
-                        cartValues.forEach(values => { values.innerHTML = '0';})
+                        cartValues.forEach(values => { values.innerHTML = '0'; })
                         cartTotal.innerHTML = '0';
-                        
+
                         // Remove in Firebase DB
                         firebase
-                        .database()
-                        .ref('Users_Carts/' + trimedEmailID + '_Cart')
-                        .remove()
+                            .database()
+                            .ref('Users_Carts/' + trimedEmailID + '_Cart')
+                            .remove()
                     }
                 }
             })
 
             // If last element in cart if removed - 
-            if (addItem.length === 0){ 
+            if (addItem.length === 0) {
                 cartItemsContainer.innerHTML = '';
-                cartValues.forEach(values => { values.innerHTML = '0';})
+                cartValues.forEach(values => { values.innerHTML = '0'; })
             }
-            
+
             // Remove (i.e update) In Firebase DB
             firebase
-            .database()
-            .ref('Users_Carts/' + trimedEmailID + '_Cart')
-            .update({Details: addItem})
+                .database()
+                .ref('Users_Carts/' + trimedEmailID + '_Cart')
+                .update({ Details: addItem })
         }
         // When Add Quantity is clicked
-        else if (event.target.classList.contains('fa-chevron-up')){
+        else if (event.target.classList.contains('fa-chevron-up')) {
             let addAmount = event.target;
             let id = addAmount.dataset.id;
 
             // Update Array -
-            addItem.forEach(item => {                
-                if (item.FoodID === id){
-                    item.Quantity += 1;
-                }
-            })
-            // Update in Firebase DB
+            addItem.forEach(item => {
+                    if (item.FoodID === id) {
+                        item.Quantity += 1;
+                    }
+                })
+                // Update in Firebase DB
             firebase.database()
-            .ref('Users_Carts/' + trimedEmailID + '_Cart')
-            .update({ Details: addItem })
+                .ref('Users_Carts/' + trimedEmailID + '_Cart')
+                .update({ Details: addItem })
         }
         // When lower Quantity is clicked
-        else if (event.target.classList.contains('fa-chevron-down')){
+        else if (event.target.classList.contains('fa-chevron-down')) {
             let lowerAmount = event.target;
             let id = lowerAmount.dataset.id;
 
             // Update Array -
-            addItem.forEach(item => {                
-                if (item.FoodID === id && item.Quantity >= 1){
+            addItem.forEach(item => {
+                if (item.FoodID === id && item.Quantity >= 1) {
                     item.Quantity -= 1;
-                    if (item.Quantity === 0){
-                        if ( window.location != 'https://mit-canteen.netlify.app/user-orders.html'){
+                    if (item.Quantity === 0) {
+                        if (window.location != 'https://eddy3018.github.io/Group4/user-orders.html') {
                             // Enable Buttons - so user can use them again
                             // Enable removed items btn
-                            addToCartBtn[item.FoodID-1].disabled = false;
-                            addToCartBtn[item.FoodID-1].innerHTML = 'Add to Cart';
+                            addToCartBtn[item.FoodID - 1].disabled = false;
+                            addToCartBtn[item.FoodID - 1].innerHTML = 'Add to Cart';
                         }
                         // Update Array -
-                        addItem.splice(addItem.indexOf(item) ,1);
-                        if (addItem.length === 0){
+                        addItem.splice(addItem.indexOf(item), 1);
+                        if (addItem.length === 0) {
                             cartItemsContainer.innerHTML = '';
-                            cartValues.forEach(values => { values.innerHTML = '0';})
+                            cartValues.forEach(values => { values.innerHTML = '0'; })
                             cartTotal.innerHTML = '0';
                             // Remove in Firebase DB
                             firebase
-                            .database()
-                            .ref('Users_Carts/' + trimedEmailID + '_Cart')
-                            .remove()
+                                .database()
+                                .ref('Users_Carts/' + trimedEmailID + '_Cart')
+                                .remove()
                         }
                     }
                 }
@@ -518,23 +517,23 @@ function cartFunctionalities (addItem, trimedEmailID, addToCartBtn){
 
             // Update in Firebase DB
             firebase
-            .database()
-            .ref('Users_Carts/' + trimedEmailID + '_Cart')
-            .update({ Details: addItem })
+                .database()
+                .ref('Users_Carts/' + trimedEmailID + '_Cart')
+                .update({ Details: addItem })
         }
     })
 }
 
 // Remove all items in cart
-function clearUserCart(addItem, addToCartBtn, trimedEmailID){
+function clearUserCart(addItem, addToCartBtn, trimedEmailID) {
     cartItemsContainer.innerHTML = '';
-    cartValues.forEach(values => { values.innerHTML = '0';})
+    cartValues.forEach(values => { values.innerHTML = '0'; })
     cartTotal.innerHTML = '0';
-    if ( window.location != 'https://mit-canteen.netlify.app/user-orders.html'){
+    if (window.location != 'https://eddy3018.github.io/Group4/user-orders.html') {
         // Enable removed items btn
-        addItem.forEach(item=>{
-            addToCartBtn[item.FoodID-1].disabled = false;
-            addToCartBtn[item.FoodID-1].innerHTML = 'Add to Cart';
+        addItem.forEach(item => {
+            addToCartBtn[item.FoodID - 1].disabled = false;
+            addToCartBtn[item.FoodID - 1].innerHTML = 'Add to Cart';
         })
     }
 
@@ -543,22 +542,21 @@ function clearUserCart(addItem, addToCartBtn, trimedEmailID){
 
     // Update in Firebase DB
     firebase
-    .database()
-    .ref('Users_Carts/' + trimedEmailID + '_Cart')
-    .remove()
+        .database()
+        .ref('Users_Carts/' + trimedEmailID + '_Cart')
+        .remove()
 }
 
 // User Order's Management -
-function userOrderManagement (trimedEmailID , userCart, userEmailID){
+function userOrderManagement(trimedEmailID, userCart, userEmailID) {
 
     const orderDate = new Date().toLocaleDateString();
     var orderTime = new Date().toLocaleTimeString();
     // To check AM or PM
     var hours = new Date().getHours();
     // Check AM or PM
-    if ( hours >= 12){ orderTime = orderTime + ' PM' }
-    else { orderTime = orderTime + ' AM' }
-    
+    if (hours >= 12) { orderTime = orderTime + ' PM' } else { orderTime = orderTime + ' AM' }
+
     // Current Order
     let current_order = {
         Email_ID: userEmailID,
@@ -572,12 +570,12 @@ function userOrderManagement (trimedEmailID , userCart, userEmailID){
 
     // Add Current Order To User Orders list 
     firebase.database()
-    .ref('Users_Order/' + trimedEmailID + '_Orders')
-    .push(current_order);
+        .ref('Users_Order/' + trimedEmailID + '_Orders')
+        .push(current_order);
 }
 
 // Main.js When Content Loaded
-document.addEventListener('DOMContentLoaded', () =>{
+document.addEventListener('DOMContentLoaded', () => {
     // Client UI
     displayMenuItems(newMenu);
     showUserCart(addItem)
@@ -588,7 +586,7 @@ document.addEventListener('DOMContentLoaded', () =>{
 });
 
 // When User Loggin and Do Stuff
-function ClientDataFlow(addToCartBtn){
+function ClientDataFlow(addToCartBtn) {
     // When User Is logged In
     firebase.auth().onAuthStateChanged((user) => {
         if (user) {
@@ -598,30 +596,30 @@ function ClientDataFlow(addToCartBtn){
 
             // Get Cart Items already stored
             firebase.database()
-            .ref('Users_Carts/' + trimedEmailID + '_Cart')
-            .on('value', function(snapshot){
-                if (snapshot.exists()){
-                    var userCart = snapshot.val().Details;
-                    // Empty Array
-                    addItem = []
-                    for (let i = 0; i< userCart.length; i++){
-                        // Store previouly added items to array -
-                        addItem.push(userCart[i])
-                        // Disable already added items
-                        if (window.location != 'https://mit-canteen.netlify.app/user-orders.html'){
-                            addToCartBtn[userCart[i].FoodID-1].disabled = true;
-                            addToCartBtn[userCart[i].FoodID-1].innerHTML = 'In Cart';
+                .ref('Users_Carts/' + trimedEmailID + '_Cart')
+                .on('value', function(snapshot) {
+                    if (snapshot.exists()) {
+                        var userCart = snapshot.val().Details;
+                        // Empty Array
+                        addItem = []
+                        for (let i = 0; i < userCart.length; i++) {
+                            // Store previouly added items to array -
+                            addItem.push(userCart[i])
+                                // Disable already added items
+                            if (window.location != 'https://eddy3018.github.io/Group4/user-orders.html') {
+                                addToCartBtn[userCart[i].FoodID - 1].disabled = true;
+                                addToCartBtn[userCart[i].FoodID - 1].innerHTML = 'In Cart';
+                            }
                         }
+                        cartFunctionalities(addItem, trimedEmailID, addToCartBtn);
+                        showUserCart(addItem, trimedEmailID);
                     }
-                    cartFunctionalities(addItem, trimedEmailID, addToCartBtn);
-                    showUserCart(addItem, trimedEmailID);
-                }
-            })
-            
+                })
+
             // Cart Buttons -
-            if (addToCartBtn){
+            if (addToCartBtn) {
                 addToCartBtn.forEach(btn => {
-                    btn.addEventListener('click', ()=> {
+                    btn.addEventListener('click', () => {
                         var quantity = 1;
                         const data_id = btn.dataset.id;
                         // Set Values In Firebase DB
@@ -631,15 +629,15 @@ function ClientDataFlow(addToCartBtn){
             }
 
             // Remove all items from Cart -
-            clearCart.addEventListener('click', ()=>{
+            clearCart.addEventListener('click', () => {
                 clearUserCart(addItem, addToCartBtn, trimedEmailID);
                 addItem = []
             })
 
             // User Check Out's -
-            checkOutBtn.addEventListener('click', ()=>{
+            checkOutBtn.addEventListener('click', () => {
                 // Check If Cart is Empty or not -
-                if (addItem.length != 0){
+                if (addItem.length != 0) {
                     // Order
                     let userCart = showUserCart(addItem, trimedEmailID);
                     userOrderManagement(trimedEmailID, userCart, userEmailID);
@@ -651,8 +649,8 @@ function ClientDataFlow(addToCartBtn){
                         icon: 'success',
                         title: 'Order Successfully Recorded',
                     });
-                    window.setTimeout(function(){
-                        window.location.replace('https://mit-canteen.netlify.app/user-orders.html')
+                    window.setTimeout(function() {
+                        window.location.replace('https://eddy3018.github.io/Group4/user-orders.html')
                     }, 2600)
                 } else {
                     Swal.fire({
@@ -663,11 +661,11 @@ function ClientDataFlow(addToCartBtn){
             })
 
             // Shows Orders
-            if (window.location.href === 'https://mit-canteen.netlify.app/user-orders.html'){
+            if (window.location.href === 'https://eddy3018.github.io/Group4/user-orders.html') {
                 setOrderDetails(trimedEmailID)
             }
         } else {
-        console.log('no user logged in');
+            console.log('no user logged in');
         }
     });
 }

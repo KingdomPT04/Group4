@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mit Canteen | Orders Status</title>
-    
+    <title>Group4 Canteen | Orders Status</title>
+
     <!-- Page Icon -->
     <link rel="Micosoft icon" href="assets/images/MIT LOGO.png">
-    
+
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" 
-          integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" 
-          crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
 
     <!-- Style Sheets -->
     <link rel="stylesheet" href="assets/css/style.css">
@@ -28,15 +27,18 @@
     <!-- Sweet Alert Pop Modal -->
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
+
 <body>
-    
+
     <!-- NavBar -->
     <header class="navbar">
         <div class="container flex text-center jc-ai-center">
             <!-- Left Navigation -->
             <div class="site-title flex align-item-center">
                 <div>
-                    <a href="client-side.html"><h1><span class="clr-red">Mit</span> <span class="clr-green">Canteen</span></h1></a>
+                    <a href="client-side.html">
+                        <h1><span class="clr-red">Mit</span> <span class="clr-green">Canteen</span></h1>
+                    </a>
                 </div>
                 <!-- Toggle Bars -->
                 <div class="toggle-bars mybar">
@@ -46,11 +48,11 @@
                 </div>
             </div>
             <!-- Right Navigation -->
-            <nav class="site-nav flex left-nav align-item-center">                
+            <nav class="site-nav flex left-nav align-item-center">
                 <ul class="flex">
                     <li><a href="client-side.html"><i class="fas fa-cocktail"></i> Menu</a></li>
                     <li><a href="user-orders.html"><i class="fas fa-coins"></i> Your Orders</a></li>
-                    <button  class="btn" id="userlogout">Log Out</button>
+                    <button class="btn" id="userlogout">Log Out</button>
                     <!-- Cart Icon -->
                     <a class="flex" id="cart-btn">
                         <i class="fas fa-shopping-cart"></i>
@@ -67,7 +69,7 @@
             <ul class="mob-ul">
                 <li><a href="client-side.html">Menu</a></li>
                 <li><a href="user-orders.html">My Orders</a></li>
-                <button  class="btn" id="userlogout">Log Out</button>
+                <button class="btn" id="userlogout">Log Out</button>
                 <!-- Cart Icon -->
                 <a class="flex" id="cart-btn">
                     <i class="fas fa-shopping-cart"></i>
@@ -84,8 +86,7 @@
             <header class="cart-title text-center md">
                 <div>Your Cart</div>
                 <div>
-                    <i class="fas fa-times" 
-                       onclick="cartOverlay.classList.remove('show');
+                    <i class="fas fa-times" onclick="cartOverlay.classList.remove('show');
                        cartInnerlay.classList.remove('showCart');">
                     </i>
                 </div>
@@ -97,7 +98,7 @@
             <hr class="py-1">
             <!-- Footer Side  -->
             <div class="cart-footer text-center sm">
-                <div>Your Total : &#8377;<span class="cart-total sm">0</span></div>
+                <div>Your Total : &#8373;<span class="cart-total sm">0</span></div>
                 <div class="my-1">
                     <button class="clear-cart">Clear Cart</button>
                     <button class="check-out">Order Now</button>
@@ -121,7 +122,9 @@
     </section>
 
     <!-- User Footer -->
-    <footer class="customer-footer" id="user-footer" style="margin-top: 10rem;"><!-- Comes Through JS --></footer>
+    <footer class="customer-footer" id="user-footer" style="margin-top: 10rem;">
+        <!-- Comes Through JS -->
+    </footer>
 
     <!-- Page Animations -->
     <script src="assets/js/animations.js"></script>
@@ -133,4 +136,5 @@
     <script src="assets/js/functioning.js"></script>
 
 </body>
+
 </html>

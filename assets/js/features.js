@@ -259,11 +259,7 @@ function customerFooterUI() {
                     <!-- About College -->
                     <article class="about">
                         <h1 class="sm">about</h1>
-                        <p>Malwa Institute of Technology is governed by Indus 
-                        Global Educational & Welfare Society which was founded 
-                        in 2003 by a group of industrialists and educationalists
-                        who shared a vision of establishing centers of scientific
-                        learning around the country.</p>
+                        <p>Accra Technical University was the first Technical University to be established. It was established in 1949 as a Technical School and commissioned in 1957 as Accra Technical Institute. In 1963, the Institute was renamed Accra Polytechnic, by the orders of the then President, Dr. Kwame Nkrumah..</p>
                         <ul class="py-1">
                             <li><i class="fab fa-facebook-f"></i><a href="https://www.facebook.com/malwainstitute/" target="_blank"> Facebook</a></li>
                             <li><i class="fab fa-instagram"></i><a href="https://www.instagram.com/malwa_institute_of_technology/" target="_blank">Instagram</a></li>
@@ -275,25 +271,25 @@ function customerFooterUI() {
                             <h1 class="sm">Quick Links</h1>
                             <li><a href="index.html">Canteen Home</a></li>
                             <li><a href="our-vision.html">Our Vision</a></li>
-                            <li><a href="https://github.com/rvutd/mit-canteen-site" target="_blank">Git Repository</a></li>
-                            <li><a href="https://mitindore.co.in/" target="_blank">MIT Indore</a></li>
+                            <li><a href="#" target="_blank">Git Repository</a></li>
+                            <li><a href="#" target="_blank">MIT Indore</a></li>
                         </ul>
                     </article>
                     <!-- Contact Details -->
                     <article class="contact">
                         <ul>
                             <h1 class="sm">Contact Information</h1>
-                            <li> <i class="fas fa-phone-alt"></i> <p>+91-731-2810001-08</p></li>
+                            <li> <i class="fas fa-phone-alt"></i> <p>+233 55 876 6063</p></li>
                             <li> <i class="fas fa-envelope"></i> <p>admission@mitindore.co.in</p></li>
-                            <li> <i class="fas fa-map-marker-alt"></i> <p>Indore-Dewas Bypass Road, Indore (MP)-452016</p></li>
-                            <li> <i class="fas fa-globe-asia"></i> <p>For Professional Courses, Visit: www.altius.ac.in</p></li>
+                            <li> <i class="fas fa-map-marker-alt"></i> <p>Address: P. O Box GP 561, Barnes road, Accra.</p></li>
+                            <li> <i class="fas fa-globe-asia"></i> <p>For Professional Courses, Visit: www.atu.edu.gh</p></li>
                         </ul>
                     </article>
                 </main>
-                <!-- Deep Devs Info -->
+                <!-- Rita.et.al Info -->
                 <main class="deep-devs flex">
-                    <div>© Copyright 2020 - 2021. All Rights Reserved</div>
-                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Deep Devs</a></div>
+                    <div>© Copyright 2023 - 2024. All Rights Reserved</div>
+                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Rita.et.al</a></div>
                 </main>
             </section>
         `;
@@ -315,11 +311,7 @@ function userFooterUI() {
                     <!-- About College -->
                     <article class="about">
                         <h1 class="sm">about</h1>
-                        <p>Malwa Institute of Technology is governed by Indus 
-                        Global Educational & Welfare Society which was founded 
-                        in 2003 by a group of industrialists and educationalists
-                        who shared a vision of establishing centers of scientific
-                        learning around the country.</p>
+                        <p>Accra Technical University was the first Technical University to be established. It was established in 1949 as a Technical School and commissioned in 1957 as Accra Technical Institute. In 1963, the Institute was renamed Accra Polytechnic, by the orders of the then President, Dr. Kwame Nkrumah.</p>
                         <ul class="py-1">
                             <li><i class="fab fa-facebook-f"></i><a href="https://www.facebook.com/malwainstitute/" target="_blank"> Facebook</a></li>
                             <li><i class="fab fa-instagram"></i><a href="https://www.instagram.com/malwa_institute_of_technology/" target="_blank">Instagram</a></li>
@@ -331,25 +323,25 @@ function userFooterUI() {
                             <h1 class="sm">Quick Links</h1>
                             <li><a href="client-side.html">Menu</a></li>
                             <li><a href="user-orders.html">Your Orders</a></li>
-                            <li><a href="https://github.com/rvutd/mit-canteen-site" target="_blank">Git Repository</a></li>
-                            <li><a href="https://mitindore.co.in/" target="_blank">MIT Indore</a></li>
+                            <li><a href=#" target="_blank">Git Repository</a></li>
+                            <li><a href="#" target="_blank">MIT Indore</a></li>
                         </ul>
                     </article>
                     <!-- Contact Details -->
                     <article class="contact">
                         <ul>
                             <h1 class="sm">Contact Information</h1>
-                            <li> <i class="fas fa-phone-alt"></i> <p>+91-731-2810001-08</p></li>
+                            <li> <i class="fas fa-phone-alt"></i> <p>+233 55 876 6063</p></li>
                             <li> <i class="fas fa-envelope"></i> <p>admission@mitindore.co.in</p></li>
-                            <li> <i class="fas fa-map-marker-alt"></i> <p>Indore-Dewas Bypass Road, Indore (MP)-452016</p></li>
-                            <li> <i class="fas fa-globe-asia"></i> <p>For Professional Courses, Visit: www.altius.ac.in</p></li>
+                            <li> <i class="fas fa-map-marker-alt"></i> <p>Address: P. O Box GP 561, Barnes road, Accra.</p></li>
+                            <li> <i class="fas fa-globe-asia"></i> <p>For Professional Courses, Visit: www.atu.edu.gh</p></li>
                         </ul>
                     </article>
                 </main>
-                <!-- Deep Devs Info -->
+                <!-- Rita.et.al Info -->
                 <main class="deep-devs flex">
-                    <div>© Copyright 2020 - 2021. All Rights Reserved</div>
-                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Deep Devs</a></div>
+                    <div>© Copyright 2023 - 2024. All Rights Reserved</div>
+                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Rita.et.al</a></div>
                 </main>
             </section>
         `;
