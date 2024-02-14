@@ -99,7 +99,7 @@
 
       static authRedirecting() {
           window.setTimeout(() => {
-              window.location.replace('https://eddy3018.github.io/Group4/client-side');
+              window.location.replace('https://kingdompt04.github.io/Group4/client-side');
           }, 500)
       }
 
@@ -116,7 +116,7 @@
       firebaseAuthRedirect() {
           firebase.auth().onAuthStateChanged(function(user) {
               // If user is registered -
-              user ? window.location.replace('https://eddy3018.github.io/Group4/client-side') : console.log('none');
+              user ? window.location.replace('https://kingdompt04.github.io/Group4/client-side') : console.log('none');
           });
       }
   }
@@ -227,7 +227,7 @@
                       title: 'Logged Out Successfully',
                   })
                   firebase.auth().signOut().then(() => {
-                      window.location.replace("https://eddy3018.github.io/Group4/index.html")
+                      window.location.replace("https://kingdompt04.github.io/Group4/index.html")
                   });
               });
           })
