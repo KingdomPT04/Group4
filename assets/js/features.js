@@ -286,10 +286,10 @@ function customerFooterUI() {
                         </ul>
                     </article>
                 </main>
-                <!-- Rita.et.al Info -->
+                <!-- Group4 Info -->
                 <main class="deep-devs flex">
                     <div>© Copyright 2023 - 2024. All Rights Reserved</div>
-                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Rita.et.al</a></div>
+                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Group4</a></div>
                 </main>
             </section>
         `;
@@ -338,10 +338,10 @@ function userFooterUI() {
                         </ul>
                     </article>
                 </main>
-                <!-- Rita.et.al Info -->
+                <!-- Group4 Info -->
                 <main class="deep-devs flex">
                     <div>© Copyright 2023 - 2024. All Rights Reserved</div>
-                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Rita.et.al</a></div>
+                    <div class="">Designed & Developed with <i class="fas fa-heart clr-red"></i> By <a href="#">Group4</a></div>
                 </main>
             </section>
         `;
